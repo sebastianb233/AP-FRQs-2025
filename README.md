@@ -1,6 +1,6 @@
 # AP-FRQs-2025
 
-*Solutions written by Joshua Hans*
+*Solutions written by Sebastian B*
 
 ## Introduction
 This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
@@ -29,17 +29,11 @@ Through this review process, I've identified these areas for continued learning:
 
 - Topic/Concept 1: [I think i really have to improve my time management skills]
 - Topic/Concept 2: [I also think that i should practice more Arrays and ArraysList strageties and others]
-- Programming practice: [Use more resources ]
+- Programming practice: [Use more resources that are aveilable in the internet]
 
 ## Resources
 Resources I found helpful during my exam preparation and review:
 
-- [Resource name and link]
-- [Resource name and link]
-- [Resource name and link]
-
-## Future Goals
-Moving forward, I plan to:
-- [Specific goal related to computer science learning]
-- [Project idea inspired by the exam content]
-- [Study strategy for future computer science courses]
+- [apclassroom.collegeboard]
+- [https://www.juicemind.com]
+- [claude.ai]
